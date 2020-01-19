@@ -1,3 +1,4 @@
-��# git_test
-test new line
+# git_test
+git test new line\n
+test
 
